@@ -1,0 +1,4 @@
+//create init from db context
+dotnet ef migrations add InitialCreate
+//update
+dotnet ef database update
